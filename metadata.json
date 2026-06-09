@@ -1,0 +1,6 @@
+{
+  "name": "Gyan Bharti Shiksha Niketan",
+  "description": "Admissions landing page for Gyan Bharti Shiksha Niketan, Giridih. High-speed, mobile-friendly design for parents to register their children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
